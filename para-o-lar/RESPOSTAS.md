@@ -1,9 +1,11 @@
 # Respostas
 
 1. Qual nivel de maturidade corresponde ao CRUD (Create, Read, Update, Delete)?
+
 R = API REST Maturidade 2
 
 2. Qual a relação entre os metodos HTTP e o CRUD?
+
 R= Os verbos HTTP parecem estar diretamente ligado com o CRUD:
 
 Create -> POST
